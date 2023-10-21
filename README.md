@@ -1,2 +1,2 @@
 # MadanText
-MadanText is an open source software for text mining for the Persian language.
+MadanText is an open-source software designed specifically for text mining in the Persian language.
