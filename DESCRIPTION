@@ -1,0 +1,15 @@
+Package: MadanText
+Type: Package
+Title: Persian Textmining Tool for Frequency Analysis, Statistical Analysis, and Word Clouds 
+Version: 0.1.0
+Authors@R: c(
+    person("Hasan", "Khosravi", email = "hasan.khosravi2010@yahoo.com", role = c("aut")),
+    person("Kido", "Ishikawa", email = "kido.ishikawa6@gmail.com", role = c("aut", "cre")))
+Description: MadanText is an open-source software designed specifically for text mining in the Persian language. It allows users to examine word frequencies, download data for analysis, and generate word clouds. This tool is particularly useful for researchers and analysts working with Persian language data.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Depends: R (>= 4.0.0)
+Imports:
+     xlsx, quanteda, stopwords, lattice, rJava, textmineR, tidytext, tidyverse, stringi, tidyr,RWekajars, udpipe, PersianStemmer, shiny (>= 1.8.0), shinythemes, tm, dplyr, hwordcloud, stringr, topicmodels, igraph, ggraph, DT
