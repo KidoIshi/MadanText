@@ -6,3 +6,5 @@ This software was developed jointly by Hasan Khosravi and Kido Ishikawa. It is u
 Those are written in Description
 ## Licence
 GNU GPL version 3
+## Note
+Co-occurring network functionality is included in the following software
