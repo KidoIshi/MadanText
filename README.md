@@ -8,3 +8,4 @@ Those are written in Description
 GNU GPL version 3
 ## Note
 Co-occurring network functionality is included in the following software
+https://github.com/KidoIshi/MadanTextNetwork
