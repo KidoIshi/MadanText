@@ -453,7 +453,7 @@ ui<-fluidPage(
         tabPanel("Document Lengths",
                  h1("Summary of Document Lengths"),
                  tableOutput("summary")),
-        #The following code counts the frequency of all words regardless of the Udpipe package. It is useful, but to keep the UI simple, Default is commented out so that it is not displayed.
+        #The following code display frequency of all words regardless of the Udpipe package. It is useful for overviewing, but to keep the UI simple, Default is commented out so that it is not displayed.
         #tabPanel("Token",
         #         h1("Most Frequent of Tokens"),
         #         br(),br(),
