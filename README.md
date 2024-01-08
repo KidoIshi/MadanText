@@ -1,7 +1,7 @@
 # MadanText
 MadanText is an open-source software designed specifically for text mining in the Persian language. It allows users to examine word frequencies, download data for analysis, and generate word clouds. This tool is particularly useful for researchers and analysts working with Persian language data.
 
-MadanTextは、ペルシャ語のテキストマイニング専用に設計されたオープンソースソフトウェアです。このツールを使用し、ユーザーは単語の頻度を調べたり、データをダウンロードして分析したり、ワードクラウドを生成したりすることができます。このツールは、ペルシャ語データを扱う研究者やアナリストにとって便利です。
+MadanTextは、ペルシア語のテキストマイニング専用に設計されたオープンソースソフトウェアです。このツールを使用し、ユーザーは単語の頻度を調べたり、データをダウンロードして分析したり、ワードクラウドを生成したりすることができます。このツールは、ペルシア語データを扱う研究者やアナリストにとって便利です。
 
 ## Authors
 This software was developed jointly by Hasan Khosravi and Kido Ishikawa. It is used for Kido Ishikawa's doctoral dissertation for counting frequency and other analyses.
